@@ -1,0 +1,1 @@
+Analyze network traffic to identify network potential threats. use tools like wireshark or tcpdump to capture and analyze networks packets. document suspicious activities and propose recommendations to mitgate identified risks .
